@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trabalho de Inglês</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <ul>
+                <li>
+                    <a href="gif.html">Gif</a>
+                </li>
+                <li>
+                    <a href="vlog.html">Vlog</a>
+                </li>
+                <li>
+                    <a href="Wikipédia.html">Wikipédia</a>
+                </li>
+                <li>
+                    <a href="memes.html">Memes</a>
+                </li>
+                <li>
+                    <a href="fanfiction.html">Fanfiction</a>
+                <li>
+                    <a href="curriculo.html">Curriculo-Web</a>
+                </li>
+            </ul>
+         </nav>
+         <h1>Gêneros Digitais</h1>
+         <h2>O que é? E como caracterizalos?</h2>
+        </header>
+    
+            <main>
+                <section>
+                    <h3>O que é Gêneros Digitais?</h3>
+                    <p>Em diversas situações de nossas vidas, precisamos usar determinados gêneros textuais, estes sempre a serviço da comunicação, para sermos entendidos corretamente. Quando você está escrevendo para um professor, assim como quando estiver falando com ele, você deverá manter uma linguagem mais adequada, diferente daquela que você usa com seus amigos nos intervalos. Apesar de não existirem formas de determinar precisamente a quantidade destes gêneros, eles podem ser identificados e diferenciados. Mas o que isso tem a ver com Gêneros digitais?  Como os gêneros textuais estão sempre auxiliando na comunicação e a internet e as inovações tecnológicas passaram a estar presentes na rotina da maioria das pessoas, a comunicação acabou adaptando-se para estes ambientes. Essas inovações fizeram com que novos gêneros surgissem, como o do e-mail – semelhante à carta –, por exemplo.Além disso, temos as postagens, compartilhamentos e outras formas de expressão nas redes sociais que comprovam essas adaptações.
+                    </p>
+                </section>
+                <div class="gif">
+                    <img src="./img/Gif.jpg"></img>
+                </div> 
+                <section>
+                    <h3>Como caracterizalos?</h3>
+                    <p>Em ambientes digitais, damos preferência a grafia de forma abreviada, encurtando os textos, além de usarmos hipermídias e links que criam um hipertexto.Não podemos pensar, no entanto, que sempre que falamos de gêneros digitais, poderemos ser informais e usar abreviações. Tudo isso irá depender dos níveis de formalidade existente, assim como os gêneros ainda assim serão definidos a partir de determinados elementos fixos.O que muda, em grande parte, são as redes sociais que estão repletas de gêneros, sendo que o mais comum é o post. Este pode ser marcado por linguagem informal ou formal, dependendo de seu objetivo, tendo, inclusive, alguns emoticons que compensam a ausência da entonação que facilita a comunicação verbal.Quando em situações informais, no entanto, é comum encontrarmos o uso de abreviações, como eram usadas nos antigos telegramas. Entre elas, podemos citar “vc”, “pse”, “vlw”, “ent”, “flw”, entre muitas outras.</p>
+                </section>
+                <section>
+                    <h4>
+                        Colégio Estadual Maria de fátima santana
+                    </h4>
+                    <h4> Profº: Raildo</h4>
+                    <h4>Grupo: Lucas, Victor, Belinha, Daiane, yaya, Kemilly </h4>
+                </section>
+    </div>
+</body>
+</html>
